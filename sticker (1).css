@@ -1,0 +1,191 @@
+body{
+  background-color: #88dbff;
+}
+
+.group1-group1 {
+  width: 120px;
+  height: 100px;
+  display:relative;
+  padding: 10;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 10; 
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  
+}
+
+.group1-rectangle2 {
+  top: 50px;
+  left: 960px;
+  width: 70px;
+  height: 30px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+}
+.group1-rectangle4 {
+  top: 90px;
+  left: 960px;
+  width: 70px;
+  height: 30px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+}
+.group1-rectangle3 {
+  top: 10px;
+  left: 960px;
+  width: 70px;
+  height: 30px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+}
+.group1-text {
+  top: 11px;
+  left: 990px;
+  color: rgba(0, 0, 0, 1);
+  width: 319px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hind Siliguri;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-text2 {
+  top: 95px;
+  left: 990px;
+  color: rgba(0, 0, 0, 1);
+  width: 319px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hind Siliguri;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-text4 {
+  top: 55px;
+  left: 990px;
+  color: rgba(0, 0, 0, 1);
+  width: 319px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hind Siliguri;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group1-text6 {
+  top: 30px;
+  left: 417px;
+  color: rgba(0, 0, 0, 1);
+  width: 366px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hanuman;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+
+}
+.rectangle {
+      left:6%;
+      top:10px;
+      height: 600px;
+      width: 1110px;
+      background-color: rgb(255, 255, 255);
+      position: relative;
+      z-index: 2;
+    }
+    .card_green{
+      border: none;
+      color: black;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      background-color: #4CAF50;
+      margin-right: 10px;
+     
+      margin-bottom: 10px;
+  }
+  .card_red{
+      
+      border: none;
+      color: black;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      background-color: red;
+      margin-right: 10px;
+      margin-bottom: 10px;
+  }
+  .card_orange{
+      border: none;
+      color: black;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      background-color: yellow;
+      margin-right: 10px;
+     
+      margin-bottom: 10px;
+  }
+  .out{
+      border: 2px;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      background-color: black;
+      margin-right: 10px;
+     
+      margin-bottom: 10px;
+      }
+h1{
+  top: 100px;;
+}
